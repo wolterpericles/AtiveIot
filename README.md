@@ -9,13 +9,16 @@ Aplicativo mobile para controle de dispositivos IoT de energia elétrica, desenv
 ```bash
 git clone https://github.com/wolterpericles/AtiveIot.git
 cd AtiveIot
+``
 
 2. Instale as dependências:
 
 ```bash
 npm install
+``
 
 3. Inicie o aplicativo com Expo:
 
 ```bash
 npx expo start
+``
